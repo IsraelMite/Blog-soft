@@ -50,8 +50,7 @@
         <h1>Comentario Personal</h1> 				
             <div class="split">
                 <p>Lo mencionado en el sitio web es algo superficial, no poseo mas conocimientos aparte de los mencionados.</p>
-                
-        </div>
+                </div>
 
     </section>
     <footer>
