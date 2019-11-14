@@ -1,5 +1,4 @@
 # Blog-soft
-Web personal
 # Pagina-personal
 <html lang="en">
 <head>
@@ -30,8 +29,14 @@ Web personal
                     <p>Fecha de nacimiento: 30 de julio del 1999</p>
                     <p>País de origen: Ecuador</p> 
                     <p>Github: IsraelMite</p>   
-                    <p>StackOverflow: Israel Mite</p>  
-                            		
+                    <p>StackOverflow: Israel Mite</p>
+                </div>
+            </div>
+            <h1>Competencias</h1> 				
+            <div class="split">
+                <h2>Conocimientos</h2>			
+                <div class="split">							
+                    <p> C++: Amateur</p>	                   		
                 </div>
                 <div class="split">
                     <h3>Frameworks</h3>
